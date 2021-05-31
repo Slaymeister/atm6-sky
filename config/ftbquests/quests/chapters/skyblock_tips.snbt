@@ -506,12 +506,9 @@
 			}],
 			rewards: [{
 				id: "2DBF52D6FA12240A",
-				type: "command",
-				title: "/skyblock create",
-				icon: "astralsorcery:tree_beacon",
-				auto: "no_toast",
-				command: "/skyblock create",
-				player_command: true
+				type: "xp",
+				auto: "enabled",
+				xp: 100
 			}]
 		},
 		{
